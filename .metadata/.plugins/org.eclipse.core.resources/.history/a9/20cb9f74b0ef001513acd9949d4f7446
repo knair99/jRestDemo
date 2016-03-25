@@ -1,0 +1,21 @@
+/**
+ * 
+ */
+package testing;
+
+/**
+ * @author Karunakaran_Prasad
+ *
+ */
+public class testing {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.printline("Hello world");
+
+	}
+
+}

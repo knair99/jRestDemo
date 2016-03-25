@@ -1,0 +1,7 @@
+package com.nimma.jersey.server;
+import javax.xml.bind.annotation.XmlRootElement;
+
+@XmlRootElement
+public class ClientDatum {
+
+}
